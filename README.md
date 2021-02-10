@@ -6,3 +6,5 @@ Wherever you are, I am [readf0x](mailto:readf0x@dublea.me). I make simple stuff,
 - [reddit](https://reddit.com/u/readf0x)
 - [Twitter](https://twitter.com/DavisForsythe)
 - [MyAnimeList](https://myanimelist.net/profile/readf0x)
+
+![gif](https://media1.tenor.com/images/c6f458b10dd0ebcae6fa7b51ab846bcb/tenor.gif)
