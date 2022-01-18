@@ -8,3 +8,4 @@ Wherever you are, I am [readf0x](mailto:readf0x@dublea.me). I make simple stuff,
 - [MyAnimeList](https://myanimelist.net/profile/readf0x)
 
 ![gif](https://media1.tenor.com/images/c6f458b10dd0ebcae6fa7b51ab846bcb/tenor.gif)
+![PngItem_1188719](https://user-images.githubusercontent.com/57838054/149982427-065c1779-efbf-4d1b-a1ab-2c101a6e8a8c.png)
