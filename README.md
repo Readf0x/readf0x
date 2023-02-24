@@ -1,4 +1,4 @@
-![img](https://www.codewars.com/users/Readf0x/badges/micro)
+[![img](https://www.codewars.com/users/Readf0x/badges/micro)](https://www.codewars.com/users/Readf0x)
 
 ```java
 int day = 1;
