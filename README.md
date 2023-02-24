@@ -1,3 +1,5 @@
+![img](https://www.codewars.com/users/Readf0x/badges/micro)
+
 ```java
 int day = 1;
 boolean caffeine = false;
