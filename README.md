@@ -1,6 +1,6 @@
 # Aspiring software engineer & Recreational Programmmer
 
-Proficient in Golang & Typescript[^1], knowledge of Rust, Java, Kotlin, and Svelte[^2].
+Proficient in Odin, Golang, & Typescript[^1], knowledge of C, Rust, Java, Kotlin, and Svelte[^2].
 
 <details>
   <summary></summary>
